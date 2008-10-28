@@ -1,6 +1,6 @@
 xsetroot
 ------------------------------------------
-Xorg X root window parameter setting utility
+X.Org X root window parameter setting utility
 
 Runtime requirements:
   cygwin-1.5.24-2

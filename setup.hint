@@ -1,4 +1,4 @@
 category: X11
 requires: cygwin libX11_6 libXmuu1
-sdesc: "Xorg X root window parameter setting utility"
-ldesc: "Xorg X root window parameter setting utility"
+sdesc: "X.Org X root window parameter setting utility"
+ldesc: "X.Org X root window parameter setting utility"
