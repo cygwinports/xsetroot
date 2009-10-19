@@ -1,4 +1,4 @@
 category: X11
-requires: libX11_6 libXmuu1
+requires: libgcc1 libX11_6 libXmuu1
 sdesc: "X.Org X root window parameter setting utility"
 ldesc: "X.Org X root window parameter setting utility"
