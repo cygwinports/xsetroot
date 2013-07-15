@@ -1,0 +1,11 @@
+inherit xorg
+
+NAME="xsetroot"
+VERSION=1.1.0
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="X.Org X root window parameter setting utility"
+DESCRIPTION="The xsetroot program allows you to tailor the appearance of the
+background ('root') window on a workstation display running X. Normally, you
+experiment with xsetroot until you find a personalized look that you like,
+then put the xsetroot command that produces it into your X startup file."
